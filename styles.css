@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#aa{
+    border: solid;
+    text-align: center;
+    border-radius: 15px;
+    padding:5px;
+    background-color: lightcoral;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.UGIkJTC6ylUSLOe7e9FXoAHaE8?pid=ImgDet&w=1000&h=667&rs=1");
+}
